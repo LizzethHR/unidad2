@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #1D228F;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 2rem;
+}
+
+p.intro {
+  color: hsl(0, 0%, 100%);
+}
+
+summary {
+  font-size: 4rem;
+}
+
+span.par {
+  background-color: white;
+}
+
+span.impar {
+  background-color: hsl(325, 100%, 90%);
+}

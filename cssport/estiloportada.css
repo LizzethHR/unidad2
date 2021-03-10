@@ -1,0 +1,16 @@
+body {
+    background-color: hsl(198, 50%, 70%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#portada{
+  font-size: 2rem;
+}
